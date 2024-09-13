@@ -16,4 +16,4 @@ O projeto surgiu devido à ao crescimento das vendas e a expansão do catálogo 
 
 1.O desenvolvido do projeto será por escolhido por padrão a UML (Unified Modeling Language) que é uma linguagem de modelagem visual amplamente utilizada no desenvolvimento de software para representar, especificar, construir e documentar os componentes de um sistema 
 
-2. As ferramentas de diagramação que será utilizada será o Astah e Draw.io. Cada uma utilizados no desenvolvimento de software e modelagem de sistemas. Do mesmo modo; criando uma ampla variedade de diagramas, incluindo diagramas UML e fluxogramas.
+2.As ferramentas de diagramação que será utilizada será o Astah e Draw.io. Cada uma utilizados no desenvolvimento de software e modelagem de sistemas. Do mesmo modo; criando uma ampla variedade de diagramas, incluindo diagramas UML e fluxogramas.
